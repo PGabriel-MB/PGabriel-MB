@@ -9,6 +9,8 @@ E sobre tecnologias Backend, eu fui capaz de trabalhar por muito tempo em um ERP
 
 Eu me vejo com um desenvolvedor híbrido. Tenho minhas preferências de Linguagem, mas eu vejo elas como um meio para um fim, o importante é realizar a construção e entrega de valor que o cliente necessita e surpreende-lo.
 
+Atualmente tenho atuado como Desenvolvedor **_Freelancer_** e tentando construir minha aplicação própria chamada **TheBarber**.
+
 ## Me Siga
 🅾 **Instagram:** [@pgabriel_dev](https://www.instagram.com/pgabriel_dev/)
 
@@ -113,9 +115,44 @@ Eu me vejo com um desenvolvedor híbrido. Tenho minhas preferências de Linguage
 <span style="font-size: 20px">Python</span>  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 
 
+<img
+    title="Django"
+    height="60"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
+/>
+<img
+    title="Django REST Framework"
+    height="60"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg"
+/>
+<img 
+    title="Django REST Framework"
+    height="60"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg"
+/>
+
+<span style="font-size: 20px">Banco de Dados</span>
+
+
+<img
+    title="MySQL"
+    height="60"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+/>
+<img
+    title="Postgre"
+    height="60"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
+/>
+<img
+    title="MongoDB"
+    height="60"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"
+/>
+          
 
 <!--
-**PGabriel-MB/PGabriel-M    B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PGabriel-MB/PGabriel-MB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
