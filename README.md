@@ -56,7 +56,7 @@ Atualmente tenho atuado como Desenvolvedor **_Freelancer_** e tentando construir
 ---
 ## Minhas Tecnologias
 <p align="center">
-    <span style="font-size: 20px">Web 🌐</span>
+    <span style="font-size: 30px">Web 🌐</span>
     <br />
     <img
         title="HTML5"
@@ -76,7 +76,7 @@ Atualmente tenho atuado como Desenvolvedor **_Freelancer_** e tentando construir
 </p>
 
 <p align="center">
-    <span style="font-size: 20px">JavaScript</span> <img 
+    <span style="font-size: 30px">JavaScript</span> <img 
         title="React.js"
         height="20"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
@@ -120,7 +120,7 @@ Atualmente tenho atuado como Desenvolvedor **_Freelancer_** e tentando construir
 </p>
 
 <p align="center">
-    <span style="font-size: 20px">Python</span>  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+    <span style="font-size: 30px">Python</span>  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
     <br />
     <img
         title="Django"
@@ -140,7 +140,7 @@ Atualmente tenho atuado como Desenvolvedor **_Freelancer_** e tentando construir
 </p>
 
 <p align="center">
-    <span style="font-size: 20px">Banco de Dados</span>
+    <span style="font-size: 30px">Banco de Dados</span>
     <br />
     <img
         title="MySQL"
@@ -159,7 +159,7 @@ Atualmente tenho atuado como Desenvolvedor **_Freelancer_** e tentando construir
     />
     <br />
     <br />
-    <span style="font-size: 20px">Infra</span>
+    <span style="font-size: 30px">Infra</span>
     <br />
     <img
         title="Docker"
@@ -177,5 +177,3 @@ Atualmente tenho atuado como Desenvolvedor **_Freelancer_** e tentando construir
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PGabriel-MB&theme=aura_dark" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PGabriel-MB&theme=aura_dark&utcOffset=8" />
 </p>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=PGabriel-MB&theme=aura-dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
