@@ -30,7 +30,7 @@ Atualmente tenho atuado como Desenvolvedor **_Freelancer_** e tentando construir
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCw1hT3T3vqtj-WALTcAcY6A?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
+    <a href="https://www.youtube.com/@pgabriel_dev">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
@@ -169,13 +169,17 @@ Atualmente tenho atuado como Desenvolvedor **_Freelancer_** e tentando construir
 </p>
 
 ## Estatisticas
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=PGabriel-MB&theme=aura-dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PGabriel-MB&theme=aura_dark)
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PGabriel-MB&theme=aura_dark">
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PGabriel-MB&theme=aura_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PGabriel-MB&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PGabriel-MB&theme=aura_dark&utcOffset=8)
+</p>
 <!--
 **PGabriel-MB/PGabriel-MB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
