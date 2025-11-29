@@ -11,7 +11,11 @@ Eu me vejo com um desenvolvedor híbrido. Tenho minhas preferências de Linguage
 
 Atualmente tenho atuado como Desenvolvedor **_Freelancer_** e tentando construir minha aplicação própria chamada **TheBarber**.
 
+<p align="center">
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PGabriel-MB&theme=aura_dark)
+
+</p>
 
 ## Me Siga
 🅾 **Instagram:** [@pgabriel_dev](https://www.instagram.com/pgabriel_dev/)
@@ -160,14 +164,13 @@ Atualmente tenho atuado como Desenvolvedor **_Freelancer_** e tentando construir
 />
 
 ## Estatisticas
+[![GitHub Streak](https://streak-stats.demolab.com?user=PGabriel-MB&theme=aura-dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PGabriel-MB&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PGabriel-MB&theme=aura_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PGabriel-MB&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PGabriel-MB&theme=aura_dark&utcOffset=8)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=PGabriel-MB&theme=aura-dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 <!--
 **PGabriel-MB/PGabriel-MB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
