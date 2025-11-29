@@ -13,7 +13,7 @@ Atualmente tenho atuado como Desenvolvedor **_Freelancer_** e tentando construir
 
 <p align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PGabriel-MB&theme=aura_dark)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PGabriel-MB&theme=aura_dark" />
 
 </p>
 
