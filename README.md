@@ -1,5 +1,5 @@
 # Oi, tudo certo? Eu sou o Pablo Gabriel 🙋🏾‍♂️
-> ## `Desenvolvedor FullStack` 👨🏾‍💻
+> ## `Desenvolvedor Full-Stack` 👨🏾‍💻
 
 Profissional em Desenvolvimento Fullstack atuante desde 2018 em São José dos Campos - SP. Tenho mais enfase em aplicações Front-end por ter sido a maior parte dos meus trabalhos. Mas gosto de atuar nas duas frentes de desenvolvimento (**Front e Backend**).
 
