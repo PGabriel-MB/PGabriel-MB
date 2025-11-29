@@ -173,12 +173,11 @@ Atualmente tenho atuado como Desenvolvedor **_Freelancer_** e tentando construir
 [![GitHub Streak](https://streak-stats.demolab.com?user=PGabriel-MB&theme=aura-dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PGabriel-MB&theme=aura_dark">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PGabriel-MB&theme=aura_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PGabriel-MB&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PGabriel-MB&theme=aura_dark&utcOffset=8)
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PGabriel-MB&theme=aura_dark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PGabriel-MB&theme=aura_dark" />
+    <br />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PGabriel-MB&theme=aura_dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PGabriel-MB&theme=aura_dark&utcOffset=8" />
 </p>
 <!--
 **PGabriel-MB/PGabriel-MB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
