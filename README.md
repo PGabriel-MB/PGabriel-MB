@@ -11,6 +11,8 @@ Eu me vejo com um desenvolvedor híbrido. Tenho minhas preferências de Linguage
 
 Atualmente tenho atuado como Desenvolvedor **_Freelancer_** e tentando construir minha aplicação própria chamada **TheBarber**.
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PGabriel-MB&theme=aura_dark)
+
 ## Me Siga
 🅾 **Instagram:** [@pgabriel_dev](https://www.instagram.com/pgabriel_dev/)
 
@@ -158,7 +160,6 @@ Atualmente tenho atuado como Desenvolvedor **_Freelancer_** e tentando construir
 />
 
 ## Estatisticas
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PGabriel-MB&theme=aura_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PGabriel-MB&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PGabriel-MB&theme=aura_dark)
