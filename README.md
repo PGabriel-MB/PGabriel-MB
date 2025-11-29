@@ -133,7 +133,6 @@ Atualmente tenho atuado como Desenvolvedor **_Freelancer_** e tentando construir
 
 <span style="font-size: 20px">Banco de Dados</span>
 
-
 <img
     title="MySQL"
     height="60"
@@ -149,7 +148,17 @@ Atualmente tenho atuado como Desenvolvedor **_Freelancer_** e tentando construir
     height="60"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"
 />
-          
+
+<span style="font-size: 20px">Infra</span>
+
+<img
+    title="Docker"
+    height="60"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
+/>
+
+## Estatisticas
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PGabriel-MB&theme=aura_dark)
 
 <!--
 **PGabriel-MB/PGabriel-MB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
