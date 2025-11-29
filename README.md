@@ -168,7 +168,7 @@ Atualmente tenho atuado como Desenvolvedor **_Freelancer_** e tentando construir
     />
 </p>
 
-## Estatisticas
+## Estatísticas
 
 <p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PGabriel-MB&theme=aura_dark">
