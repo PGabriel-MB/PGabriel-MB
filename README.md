@@ -12,9 +12,7 @@ Eu me vejo com um desenvolvedor híbrido. Tenho minhas preferências de Linguage
 Atualmente tenho atuado como Desenvolvedor **_Freelancer_** e tentando construir minha aplicação própria chamada **TheBarber**.
 
 <p align="center">
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PGabriel-MB&theme=aura_dark" />
-
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PGabriel-MB&theme=aura_dark" />
 </p>
 
 ## Me Siga
@@ -24,7 +22,7 @@ Atualmente tenho atuado como Desenvolvedor **_Freelancer_** e tentando construir
 
 ▶️ **YouTube:** [@pgabriel_dev](https://www.youtube.com/@PGabriel_dev)
 
-<p align="left">
+<p align="center">
     <a href="https://www.youtube.com/@PGabriel_dev?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
@@ -57,111 +55,118 @@ Atualmente tenho atuado como Desenvolvedor **_Freelancer_** e tentando construir
 
 ---
 ## Minhas Tecnologias
-<span style="font-size: 20px">Web 🌐</span>
+<p align="center">
+    <span style="font-size: 20px">Web 🌐</span>
+    <br />
+    <img
+        title="HTML5"
+        height="60"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+    />
+    <img
+        title="TailwindCSS"
+        height="60"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+    />
+    <img
+        title="CSS3"
+        height="60"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+    />
+</p>
 
-<img
-    title="HTML5"
-    height="60"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
-<img
-    title="TailwindCSS"
-    height="60"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
-<img
-    title="CSS3"
-    height="60"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
-/>
+<p align="center">
+    <span style="font-size: 20px">JavaScript</span> <img 
+        title="React.js"
+        height="20"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+    />
+    <br />
+    <img
+        title="React.js"
+        height="60"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+    />
+    <img
+        title="Next.js"
+        height="60"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
+    />
+    <img
+        title="React Native"
+        height="60"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg"
+    />
+    <img
+        title="Vue.js"
+        height="60"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"
+    />
+    <img
+        title="Nuxt.js"
+        height="60"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg"
+    />
+    <img
+        title="Express.js"
+        height="60"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
+    />
+    <img
+        title="Express.js"
+        height="60"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+    />
+</p>
 
-<span style="font-size: 20px">JavaScript</span> <img 
-    title="React.js"
-    height="20"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
+<p align="center">
+    <span style="font-size: 20px">Python</span>  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+    <br />
+    <img
+        title="Django"
+        height="60"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
+    />
+    <img
+        title="Django REST Framework"
+        height="60"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg"
+    />
+    <img 
+        title="Django REST Framework"
+        height="60"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg"
+    />
+</p>
 
-<img
-    title="React.js"
-    height="60"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-/>
-<img
-    title="Next.js"
-    height="60"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
-/>
-<img
-    title="React Native"
-    height="60"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg"
-/>
-<img
-    title="Vue.js"
-    height="60"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"
-/>
-<img
-    title="Nuxt.js"
-    height="60"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg"
-/>
-<img
-    title="Express.js"
-    height="60"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
-/>
-<img
-    title="Express.js"
-    height="60"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-/>
-
-
-<span style="font-size: 20px">Python</span>  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-
-
-<img
-    title="Django"
-    height="60"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
-/>
-<img
-    title="Django REST Framework"
-    height="60"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg"
-/>
-<img 
-    title="Django REST Framework"
-    height="60"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg"
-/>
-
-<span style="font-size: 20px">Banco de Dados</span>
-
-<img
-    title="MySQL"
-    height="60"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
-/>
-<img
-    title="Postgre"
-    height="60"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
-/>
-<img
-    title="MongoDB"
-    height="60"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"
-/>
-
-<span style="font-size: 20px">Infra</span>
-
-<img
-    title="Docker"
-    height="60"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
-/>
+<p align="center">
+    <span style="font-size: 20px">Banco de Dados</span>
+    <br />
+    <img
+        title="MySQL"
+        height="60"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+    />
+    <img
+        title="Postgre"
+        height="60"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
+    />
+    <img
+        title="MongoDB"
+        height="60"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"
+    />
+    <br />
+    <br />
+    <span style="font-size: 20px">Infra</span>
+    <br />
+    <img
+        title="Docker"
+        height="60"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
+    />
+</p>
 
 ## Estatisticas
 [![GitHub Streak](https://streak-stats.demolab.com?user=PGabriel-MB&theme=aura-dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
